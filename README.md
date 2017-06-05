@@ -142,7 +142,7 @@
 
 原始碼：[https://github.com/TocasUI/Examples/blob/master/pages/gallery.html](https://github.com/TocasUI/Examples/blob/master/pages/gallery.html)
 
-![](./screenshots/album.png)
+![](./screenshots/gallery.png)
 
 ## 登入頁面 - Login
 
