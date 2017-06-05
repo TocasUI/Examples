@@ -134,13 +134,13 @@
 
 ![](./screenshots/mail-template.png)
 
-## 個人相簿 - Album
+## 個人相簿 - Gallery
 
 供單人所設計的小型相簿靜態網站。
 
-線上範例：[https://examples.tocas-ui.com/pages/album.html](https://examples.tocas-ui.com/pages/album.html)
+線上範例：[https://examples.tocas-ui.com/pages/gallery.html](https://examples.tocas-ui.com/pages/gallery.html)
 
-原始碼：[https://github.com/TocasUI/Examples/blob/master/pages/album.html](https://github.com/TocasUI/Examples/blob/master/pages/album.html)
+原始碼：[https://github.com/TocasUI/Examples/blob/master/pages/gallery.html](https://github.com/TocasUI/Examples/blob/master/pages/gallery.html)
 
 ![](./screenshots/album.png)
 
